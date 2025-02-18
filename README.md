@@ -32,10 +32,10 @@ Here are some of the projects I've worked on:
 - **[Pong Game](https://github.com/Utsaojha/Pong-game-.git)**: This is a simple pong game I created during my early coding days. 
   - Technologies: Python
     
-- **[Project Name 2](https://github.com/Utsaojha/Flappy-Bird.git)**: This is a simple flappy bird in c using ASCII code
+- **[Flappy Bird](https://github.com/Utsaojha/Flappy-Bird.git)**: This is a simple flappy bird in c using ASCII code
   - Technologies: C Programming, ASCII
 
-- **[Project Name 3](https://github.com/Utsaojha/role-playing-game.git)**: A simple role playing game developed using HTML, CSS and Javascript.
+- **[Role Playing Game](https://github.com/Utsaojha/role-playing-game.git)**: A simple role playing game developed using HTML, CSS and Javascript.
   - Technologies: TML, CSS and Javascript
 
 ## GitHub Stats
