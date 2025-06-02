@@ -29,13 +29,19 @@ I'm currently studying Computer Science at Tribhuwan University and focusing on 
 ## Projects
 Here are some of the projects I've worked on:
 
-- **[Pong Game](https://github.com/Utsaojha/Pong-game-.git)**: This is a simple pong game I created during my early coding days. 
+- **[Rock Paper Scissor Game](https://github.com/Utsaojha/Rock-Paper-Scissors-Game.git)**: This is fully functional Rock Paper Scissor Game that I created in freecodecamp.
+  - Technologies: Javascript
+ 
+- **[Calorie Counter](https://github.com/Utsaojha/calorie_counter.git)**: This is fully functional Calorie Counter Project which I created in freecodecamp.
+  - Technologies: Javascript
+    
+- **[Pong Game](https://github.com/Utsaojha/Pong-game-.git)**: This is a Pong Game which I  created during my early coding days. 
   - Technologies: Python
     
-- **[Flappy Bird](https://github.com/Utsaojha/Flappy-Bird.git)**: This is a simple flappy bird in c using ASCII code
+- **[Flappy Bird](https://github.com/Utsaojha/Flappy-Bird.git)**: This is a simple Flappy Bird in C-Programming using ASCII code.
   - Technologies: C Programming, ASCII
 
-- **[Role Playing Game](https://github.com/Utsaojha/role-playing-game.git)**: A simple role playing game developed using HTML, CSS and Javascript.
+- **[Role Playing Game](https://github.com/Utsaojha/role-playing-game.git)**: A simple Role Playing Game developed using HTML, CSS and Javascript.
   - Technologies: TML, CSS and Javascript
 
 ## GitHub Stats
