@@ -42,7 +42,7 @@ Here are some of the projects I've worked on:
   - Technologies: C Programming, ASCII
 
 - **[Role Playing Game](https://github.com/Utsaojha/role-playing-game.git)**: A simple Role Playing Game developed using HTML, CSS and Javascript.
-  - Technologies: TML, CSS and Javascript
+  - Technologies: HTML, CSS and Javascript
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utsaojha&show_icons=true&theme=radical)
