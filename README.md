@@ -31,6 +31,9 @@ Here are some of the projects I've worked on:
 
 - **[Rock Paper Scissor Game](https://github.com/Utsaojha/Rock-Paper-Scissors-Game.git)**: This is fully functional Rock Paper Scissor Game that I created in freecodecamp.
   - Technologies: Javascript
+
+- **[Music Player](https://github.com/Utsaojha/musicPlayer.git)**: This is completely working Music Player that I created in freecodecamp.
+  - Technologies: Javascript
  
 - **[Calorie Counter](https://github.com/Utsaojha/calorie_counter.git)**: This is fully functional Calorie Counter Project which I created in freecodecamp.
   - Technologies: Javascript
